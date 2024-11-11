@@ -48,9 +48,6 @@ int main()
 }
 ```
 # OUTPUT
-![WhatsApp Image 2024-10-28 at 14 02 01_4e6ed48f](https://github.com/user-attachments/assets/703510ed-47a7-452c-b8b6-4b237d4cba42)
-
-
 ![WhatsApp Image 2024-10-28 at 14 02 10_9e34a711](https://github.com/user-attachments/assets/6af037ce-a03e-4e95-8c0a-ff86ded1d94e)
 
 # Result
